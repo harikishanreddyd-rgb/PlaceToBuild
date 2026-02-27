@@ -1,1 +1,13 @@
-h1 {color:red} 
+body {
+    /* replace with your actual image path or URL */
+    background-image: url("images/GreenBack.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;          /* scale to fill */
+    background-position: center;     /* keep it centered */
+    /* optional: keep content readable */
+    /* color: #fff; */
+}
+
+h1 {
+    color:white
+} 
